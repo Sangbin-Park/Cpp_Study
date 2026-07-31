@@ -6,6 +6,7 @@ int main()
 {
     cout << "Hello, C++ World!" << endl;
     std::cout << "__cplusplus = " << __cplusplus << std::endl;
+    // test 260731
  
     return 0;
 }
